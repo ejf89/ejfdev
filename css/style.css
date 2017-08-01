@@ -1,0 +1,125 @@
+.first {
+  background-color: #ffac6d;
+  height: 60vw;
+  text-align: center;
+}
+
+#second {
+  background-color: #ff886d;
+  height: 55vw;
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+  }
+
+#third {
+  background-color: #ffac6d;
+  height: 60vw;
+}
+
+.bio{
+  margin-top: 16vw;
+  color: white;
+  position: sticky;
+  top: 10px;
+  margin-left: 7vw;
+}
+
+.bio-sticky{
+  padding-bottom: auto;
+  color: white;
+  position: absolute;
+  margin-left: 7vw;
+}
+
+#headshot{
+  padding-top: 18vw;
+  position: fixed;
+  margin-left: -8vw;
+  /*attachment: fixed;*/
+}
+
+#second h1{
+  margin-left: 7vw;
+  color: white;
+  margin-top: -1vw;
+ }
+
+#second h2{
+  margin-left: 8vw;
+  display: list-item;
+}
+
+
+#litLendContainer{
+  padding-top: 3vw;
+}
+
+#lendDescription  {
+  padding: 2vw;
+  /*display: list-item;*/
+  /*color: white;*/
+}
+
+#litlend-shot{
+  padding-top: 2vw;
+  width: 90%;
+  height: auto;
+}
+
+.litLendBadges{
+  margin-left: 7vw;
+}
+
+.litLendBadges p {
+  color: white;
+  font-size: 16px;
+  padding: 4px;
+  margin-bottom: 2px;
+}
+
+.lendBadge{
+  background-color: #ffac6d;
+  /*padding: 0.03vw;*/
+  border-radius: 10px;
+  text-align: center;
+  margin: 4px;
+}
+
+
+#third h2{
+  padding: 1vw;
+  margin-left: 15vw;
+  margin-top: 3.8vw;
+  display: list-item;
+
+}
+
+#dadsBasementShot {
+  width: 100%;
+  margin-left: 5vw;
+  margin-top: 6vw;
+}
+
+.dadsBadges {
+  margin-left: 13.7vw;
+}
+
+.dadBadge {
+  background-color: #ff886d;
+  border-radius: 10px;
+  text-align: center;
+  margin: 4px;
+  color: white;
+}
+
+.dadsBadges p {
+  font-size: 16px;
+  padding: 4px;
+  margin-bottom: 2px;
+  color: white;
+}
+
+#dadDescription {
+  padding-top: 3vw;
+  margin-left: -1vw;
+}
