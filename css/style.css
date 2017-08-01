@@ -1,4 +1,4 @@
-.first {
+#first {
   background-color: #ffac6d;
   height: 60vw;
   text-align: center;
@@ -13,7 +13,16 @@
 
 #third {
   background-color: #ffac6d;
-  height: 60vw;
+  height: 50vw;
+  padding-top: 4vw;
+}
+
+#fourth {
+  background-color: #ff886d;
+  height: 55vw;
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+
 }
 
 .bio{
@@ -98,6 +107,10 @@
   width: 100%;
   margin-left: 5vw;
   margin-top: 6vw;
+}
+
+.dadsBasementContainer {
+  /*margin-top: 4vw;*/
 }
 
 .dadsBadges {
