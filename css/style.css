@@ -1,3 +1,8 @@
+#main {
+  background-color: black;
+  width: 101%;
+}
+
 #first {
   background-color: #ffac6d;
   height: 60vw;
@@ -7,23 +12,114 @@
 #second {
   background-color: #ff886d;
   height: 55vw;
-  padding-top: 5vw;
+  padding-top: 7vw;
   padding-bottom: 5vw;
   }
 
 #third {
   background-color: #ffac6d;
-  height: 50vw;
+  height: 55vw;
   padding-top: 4vw;
 }
 
 #fourth {
   background-color: #ff886d;
   height: 55vw;
-  padding-top: 5vw;
-  padding-bottom: 5vw;
+  /*padding-top: 5vw;*/
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.fourthContainer {
+  background-color: black;
+    padding-top: 13vw;
+    background-image: url('../img/kermstretch1.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*width: 130%;*/
+    background-position: left;
+    color: white;
+}
+
+#clientTitle {
+  padding-left: 6vw;
+  padding-top: 2vw;
+}
+
+#clientHolder {
+      padding: 3vw;
+  text-align: center;
+}
+
+#freeer{
+  /*padding-left: 3vw;*/
+}
+
+#ezLife{
+  /*padding-right: 4vw;*/
+}
+
+#clientHolder h1 {
 
 }
+
+.clientWork {
+  text-align: center;
+  padding: 2vw;
+  font-size: 16px;
+}
+
+#freeerVid{
+  padding-top: 2vw;
+  width: 90%;
+  height: auto;
+}
+
+#ezShot {
+  width: 90%;
+  height: auto;
+  padding-top: 2vw;
+}
+
+#fifth {
+  height: 20vw;
+  background-color: #ffac6d;
+  color: white;
+  padding: 3vw;
+  text-align: center;
+}
+
+#signOff{
+  padding-top: 2%;
+  text-align: center;
+}
+
+#peacers {
+  padding-top: 8%;
+}
+
+.icons a {
+  color: white;
+}
+
+.icon a {
+  text-decoration: none;
+
+}
+
+.icon {
+  padding: 0.6vw;
+  letter-spacing: 1vw;
+  transition: all .2s ease-in-out;
+}
+
+.icon:hover {
+  transform: scale(1.9);
+  text-decoration: none;
+
+}
+
 
 .bio{
   margin-top: 16vw;
@@ -110,7 +206,12 @@
 }
 
 .dadsBasementContainer {
-  /*margin-top: 4vw;*/
+  padding-top: 10vw;
+  background-image: url('../img/treeFrog.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 110%;
+
 }
 
 .dadsBadges {
